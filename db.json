@@ -1,0 +1,86 @@
+{
+  "data": [
+    { 
+    	"id":0,
+    	"categoria": 1,
+	    "nombre": "Ensalada Cesar", 
+	    "descripcion": "Lechuga romana y croûtons con jugo de limón, aceite de oliva, huevo, salsa Worcestershire, anchoas, ajo, mostaza de Dijon, queso parmesano y pimienta negra", 
+	    "precio": "650",
+	    "img": "ensalada_cesar.png",
+	    "lng": "es"
+    },
+    {
+    	"id":1,
+    	"categoria": 1,
+    	 "nombre": "Ensalada Rucula", 
+	    "descripcion": "Pepinos, tomates picados, cebolla roja aceitunas kalamata deshuesadas. Queso feta desmenuzado, perejil fresco picado, aceite de oliva, jugo de limón, orégano seco, miel, ajo picado, sal y pimienta.", 
+	    "precio": "850",
+	    "img": "ensalada_rucula.jpg",
+	    "lng": "es"
+
+    },
+    {
+    	"id":2,
+    	"categoria": 5,
+    	 "nombre": "Panqueque Dulce de Leche", 
+	    "descripcion": "Mucho Dulce de Leche", 
+	    "precio": "1050",
+	    "img":"panqueque_dulce_de_leche.jpg",
+	    "lng": "es"
+
+    },
+     { 
+     	"id":3,
+     	"categoria": 2,
+	    "nombre": "Madzunov Kebab", 
+	    "descripcion": "Base de pan árabe con brochette de carne picada untada con yogurt y hojas de menta, rodajas de morrón y tomates", 
+	    "precio": "840",
+	    "img":"kebab.jpg",
+	    "lng": "es"
+    },
+    {
+    	"id":4,
+    	"categoria": 2,
+    	 "nombre": "Lomo a la pimienta", 
+	    "descripcion": "El filete al poivre o filete a la pimienta es un plato francés que consiste en un filete, tradicionalmente un filet mignon, cubierto con granos de pimienta gruesos y luego cocidos", 
+	    "precio": "1125",
+	    "img":"lomo_pimienta.jpg",
+	    "lng": "es"
+
+    },
+    {
+    	"id":5,
+    	"categoria": 3,
+    	 "nombre": "LASAGNA DELLA NONNA", 
+	    "descripcion": "Con jamón, mozarella, salsa de tomates y salsa blanca.", 
+	    "precio": "490",
+	    "img":"lasagna.jpg",
+	    "lng": "es"
+
+    }
+     
+  ],
+  "categorias":[
+  	{
+  	"name": "ENSALADAS"
+  },
+  {
+  	"name": "CARNES"
+  },
+  {
+  	"name": "PASTAS"
+  },
+  {
+  	"name": "INFANTIL"
+  },
+  {
+  	"name": "POSTRES"
+  },
+  {
+  	"name": "BEBIDAS"
+  },
+  {
+  	"name": "ESPECIALES"
+  }
+]
+}
